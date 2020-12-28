@@ -1,3 +1,4 @@
-# Custom_KNN
+# ML algorithms in pure python
 
-## K Nearest Neighbour Algorithm written in pure python
+![](https://blog.selectel.com/wp-content/uploads/2017/08/PR-4752_python_5.png)
+
